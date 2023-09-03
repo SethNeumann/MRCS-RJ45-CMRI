@@ -1,10 +1,8 @@
-### How to use this template:
+This is the origianl CMRI Molex KK 156 to RJ45 board the John Plocher designed for Jay Beckham. 
+The intent is better wire management on classic CMRI DIN/DOUT [24|32] boards. RJ45 cables can easily and
+neatly be routed around to distribution points.
 
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+It turns out that 0.156 edge connectors (available from Acculites) can also be used in the MOLEX pads, allowing
+for mular connections to Tortoise by Circuitron stall motors.
+
+This September 2023 update is part of a file cleanup effort.
